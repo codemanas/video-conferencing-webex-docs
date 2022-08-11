@@ -1,0 +1,12 @@
+site_name: Video Conferencing with Webex
+repo_url: https://github.com/codemanas/video-conferencing-webex
+site_author: Codemanas
+nav:
+  - Installation: index.md
+  - Getting Started: getting-started.md
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  font:
+    text: Rubik
