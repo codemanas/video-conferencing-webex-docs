@@ -1,5 +1,3 @@
-## Connecting your Webex Account
-
 First step is to connect your Webex account with your WordPress site. This allows you to access your meetings, recordings depending on your Webex subscription.
 
 Login to your WordPress site from ( yoursite.com/wp-admin ) and search for a menu item called **"Webex Events"** and goto the page.

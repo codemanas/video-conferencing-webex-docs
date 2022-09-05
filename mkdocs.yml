@@ -3,7 +3,9 @@ repo_url: https://github.com/codemanas/video-conferencing-webex
 site_author: Codemanas
 nav:
   - Installation: index.md
-  - Getting Started: getting-started.md
+  - Getting Started:
+      - Basic Setup: basic-setup.md
+      - Manual Setup: manual-setup.md
 theme:
   name: material
   logo: assets/logo.png
