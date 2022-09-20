@@ -6,6 +6,8 @@ nav:
   - Getting Started:
       - Basic Setup: basic-setup.md
       - Manual Setup: manual-setup.md
+  - Shortcodes:
+      - Show Single Meeting: shortcodes/single-event.md
 theme:
   name: material
   logo: assets/logo.png
