@@ -13,11 +13,7 @@
 
 ## Manual Installation
 
-## Manual Installation
-
-**FOR REVIEW PROCESS - PLEASE NOTE WE HAVE NOT YET SUBMITTED THE PLUGIN ON WORDPRESS REPOSITORY SO AFTER THE SUBMISSION BELOW LINK WILL BE REPLACED WITH CORRECT LINK TO THE PLUGIN.**
-
-If for some reason automatic installation is not possible, go to [https://wordpress.org/plugins/video-conferencing-with-zoom-api/](https://wordpress.org/plugins/video-conferencing-with-zoom-api/) and you will see the download button. 
+If for some reason automatic installation is not possible, go to [https://wordpress.org/plugins/video-conferencing-webex](https://wordpress.org/plugins/video-conferencing-webex) and you will see the download button. 
 Clicking download button will provide you with a zip file of the plugin then.
 
 1. Go to WordPress Plugins > Add New and click upload plugin.
